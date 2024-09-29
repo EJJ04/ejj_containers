@@ -1,0 +1,29 @@
+['backpack'] = {
+		label = 'Backpack',
+		weight = 220,
+		stack = false,
+		consume = 0,
+		client = {
+			export = 'ejj_containers.openContainer:backpack'
+		}
+	},
+	
+	['dufflebag'] = {
+		label = 'Dufflebag',
+		weight = 220,
+		stack = false,
+		consume = 0,
+		client = {
+			export = 'ejj_containers.openContainer:dufflebag' 
+		}
+	},
+	
+	['evidencebox'] = {
+		label = 'Evidence Box',
+		weight = 220,
+		stack = false,
+		consume = 0,
+		client = {
+			export = 'ejj_containers.openContainer:evidencebox' 
+		}
+	},	
