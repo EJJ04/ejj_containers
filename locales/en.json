@@ -1,0 +1,5 @@
+{
+    "action_incomplete": "Action Incomplete",
+    "container_in_container": "You cannot place a container inside another container.",
+    "one_container_only": "You can only have one container in your inventory."
+}
